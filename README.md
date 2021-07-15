@@ -1,6 +1,5 @@
 # Hackintosh_Opencore_Aorus_z490_ultra_i7_10700K
-EFI folder used to boot on an Aorus z490 Ultra motherboard with an i7-10700K CPU
-Do not use this EFI folder if you don't have exactly the same setup.
+EFI folder used to boot on an Aorus z490 Ultra motherboard with an i7-10700K CPU. Do not use this EFI folder if you don't have exactly the same setup.
 
 
 1 ->  Mount USB drive EFI system partition. This is automatically made when you format with GUID but is unmounted by default, use MountEFI (https://github.com/corpnewt/MountEFI).
